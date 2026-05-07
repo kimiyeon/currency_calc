@@ -1,8 +1,10 @@
 {
+  "$schema": "https://opencode.ai/config.json",
   "mcp": {
-    "currency-mcp": {
-      "command": "node",
-      "args": ["exchange-server.js"]
+    "mcp_add": {
+      "type": "local",
+      "command": ["node", "/Users/miyeon/dev/mcp.tutorial/exchange-server.js"],
+      "enabled": true
     }
   }
 }

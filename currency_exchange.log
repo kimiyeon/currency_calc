@@ -1,1 +1,6 @@
-130 USD = 188249 KRW
+mcp exchange currency 사용해서 130 USD를 KRW으로 바꿔줘
+Thinking: The user wants to convert 130 USD to KRW using the mcp_add_convert_currency tool.
+⚙ mcp_add_convert_currency [amount=130, from=USD, to=KRW]
+Thinking: The user asked me to convert 130 USD to KRW using the mcp exchange currency tool. The result is 188,249 KRW. I should provide a concise answer.
+130 USD = 188,249 KRW
+▣  Build · MiniMax M2.5 Free · 8.4s

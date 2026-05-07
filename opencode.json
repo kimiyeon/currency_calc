@@ -1,0 +1,8 @@
+{
+  "mcp": {
+    "currency-mcp": {
+      "command": "node",
+      "args": ["exchange-server.js"]
+    }
+  }
+}
